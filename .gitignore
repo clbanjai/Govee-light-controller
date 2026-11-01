@@ -51,6 +51,7 @@ Makefile
 install_manifest.txt
 compile_commands.json
 
+
 # Temporary files
 *.tmp
 *.log
@@ -59,6 +60,7 @@ compile_commands.json
 
 # vcpkg
 vcpkg_installed/
+vcpkg
 
 # debug information files
 *.dwo
@@ -66,3 +68,7 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+.vscode
+build
+InstallationLog.txt 

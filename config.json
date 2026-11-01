@@ -1,0 +1,7 @@
+{"apiKey" : "17a80afe-e3ce-4a1b-b430-f53ece0ff297",
+"sku":"H1AB2",
+"device":"37:6C:EE:5E:B7:E7:C8:5C",
+"deviceName":"Strip Light",
+"capability_type":"devices.capabilities.on_off",
+"instance":"powerSwitch"
+}
